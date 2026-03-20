@@ -1,6 +1,6 @@
 # Customers-behavior-data-analysis project
 
-Overview
+## Overview
 
 This project focuses on analyzing customer behavior to uncover meaningful insights that can support business decision-making. The workflow combines Python-based data analysis, SQL querying, and interactive dashboarding to provide a complete end-to-end analytics solution. The goal of the project is to transform raw data into clear, actionable insights that are easy to understand. 
 
@@ -18,7 +18,7 @@ The following tools were used:
   - Power BI – for building an interactive dashboard and presenting insights.
 
 
-The project delivered:
+# The project delivered:
 
 - Clean and structured data ready for analysis
 - Clear insights into customer behavior and trends
