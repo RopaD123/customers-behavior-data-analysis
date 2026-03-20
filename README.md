@@ -18,7 +18,7 @@ The following tools were used:
   - Power BI – for building an interactive dashboard and presenting insights.
 
 
-# The project delivered:
+## The project delivered:
 
 - Clean and structured data ready for analysis
 - Clear insights into customer behavior and trends
